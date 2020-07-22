@@ -17,11 +17,15 @@ adquiridas les permitirán:
 
 ### Optimziación No Restringida.
 
+|Description|Results|
+|-----------|-------|
 |Optimal Pricing| [Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Pricing.ipynb)|
 |Optimal Capacity| [Notebook](https://github.com/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Capacity.ipynb)
 
 ### Aplicaciones de Programación Lineal y Entera.
 
+|Description|Results|
+|-----------|-------|
 |Warehouse Location|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Warehouse%20Location.ipynb)|
 |Location *n* facilities|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Locating%20n%20Facilities.ipynb)|
 
