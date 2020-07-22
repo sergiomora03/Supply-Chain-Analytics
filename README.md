@@ -3,8 +3,7 @@
 Enfoque práctico en técnicas analíticas a nivel prescriptivo para la toma de decisiones estratégicas, tácticas
 y operacionales en cadenas de suministro *(Supply Chain)*. El objetivo principal es agudizar sus habilidades de razonamiento
 y modelamiento cuantitativo a través de la formulación, resolución e interpretación de modelos de optimización aplicados a
-problemas de localización, suministro flexible, producción, transporte, entre otros. Al completar este curso, las habilidades
-adquiridas les permitirán:
+problemas de localización, suministro flexible, producción, transporte, entre otros.
 
 
 ### Content
