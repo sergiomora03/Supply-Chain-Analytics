@@ -9,34 +9,21 @@ adquiridas les permitirán:
 
 ### Content
 
+* Optimziación No Restringida.
+* Aplicaciones de Programación Lineal y Entera.
+* Aplicaciones de Programación No Lineal.
+* Aplicaciones de Programación Estocática.
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Optimziación No Restringida.
 
-```markdown
-Syntax highlighted code block
+|Optimal Pricing| [Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Pricing.ipynb)|
+|Optimal Capacity| [Notebook](https://github.com/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Capacity.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+### Aplicaciones de Programación Lineal y Entera.
 
-- Bulleted
-- List
+|Warehouse Location|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Warehouse%20Location.ipynb)|
+|Location *n* facilities|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Locating%20n%20Facilities.ipynb)|
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sergiomora03/Supply-Chain-Analytics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Aplicaciones de Programación No Lineal.
+### Aplicaciones de Programación Estocática.
