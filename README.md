@@ -1,10 +1,15 @@
 ## Supply Chain Analytics
 
-You can use the [editor on GitHub](https://github.com/sergiomora03/Supply-Chain-Analytics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Enfoque práctico en técnicas analíticas a nivel prescriptivo para la toma de decisiones estratégicas, tácticas
+y operacionales en cadenas de suministro *(Supply Chain)*. El objetivo principal es agudizar sus habilidades de razonamiento
+y modelamiento cuantitativo a través de la formulación, resolución e interpretación de modelos de optimización aplicados a
+problemas de localización, suministro flexible, producción, transporte, entre otros. Al completar este curso, las habilidades
+adquiridas les permitirán:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Content
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
