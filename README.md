@@ -19,7 +19,7 @@ problemas de localización, suministro flexible, producción, transporte, entre 
 |Description|Results|
 |-----------|-------|
 |Optimal Pricing| [Optimal Pricing.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Pricing.ipynb)|
-|Optimal Capacity| [Optimal Capacity.ipynb](https://github.com/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Capacity.ipynb)
+|Optimal Capacity| [Optimal Capacity.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Capacity.ipynb)
 
 ### Aplicaciones de Programación Lineal y Entera.
 
