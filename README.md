@@ -27,6 +27,7 @@ problemas de localización, suministro flexible, producción, transporte, entre 
 |-----------|-------|
 |Warehouse Location|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Warehouse%20Location.ipynb)|
 |Location *n* facilities|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Locating%20n%20Facilities.ipynb)|
+|Two-product Transportation Problem|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Two-product%20Transportation.ipynb)|
 
 ### Aplicaciones de Programación No Lineal.
 ### Aplicaciones de Programación Estocática.
