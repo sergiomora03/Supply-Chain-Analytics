@@ -18,16 +18,17 @@ problemas de localización, suministro flexible, producción, transporte, entre 
 
 |Description|Results|
 |-----------|-------|
-|Optimal Pricing| [Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Pricing.ipynb)|
-|Optimal Capacity| [Notebook](https://github.com/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Capacity.ipynb)
+|Optimal Pricing| [Optimal Pricing.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Pricing.ipynb)|
+|Optimal Capacity| [Optimal Capacity.ipynb](https://github.com/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Capacity.ipynb)
 
 ### Aplicaciones de Programación Lineal y Entera.
 
 |Description|Results|
 |-----------|-------|
-|Warehouse Location|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Warehouse%20Location.ipynb)|
-|Location *n* facilities|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Locating%20n%20Facilities.ipynb)|
-|Two-product Transportation Problem|[Notebook](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Two-product%20Transportation.ipynb)|
+|PuLP Implementation|[PuLP - HotTubs.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/PuLP%20-%20HotTubs.ipynb)|
+|Warehouse Location|[Warehouse Location.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Warehouse%20Location.ipynb)|
+|Location *n* facilities|[Locating n Facilities.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Locating%20n%20Facilities.ipynb)|
+|Two-product Transportation Problem|[Two-product Transportation.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Two-product%20Transportation.ipynb)|
 
 ### Aplicaciones de Programación No Lineal.
 ### Aplicaciones de Programación Estocática.
