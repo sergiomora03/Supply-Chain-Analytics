@@ -14,14 +14,14 @@ problemas de localización, suministro flexible, producción, transporte, entre 
 * Aplicaciones de Programación Estocática.
 
 
-# Optimziación No Restringida.
+## Optimziación No Restringida.
 
 |Description|Results|
 |-----------|-------|
 |Optimal Pricing| [Optimal Pricing.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Pricing.ipynb)|
 |Optimal Capacity| [Optimal Capacity.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Optimal%20Capacity.ipynb)
 
-# Aplicaciones de Programación Lineal y Entera.
+## Aplicaciones de Programación Lineal y Entera.
 
 |Description|Results|
 |-----------|-------|
@@ -30,5 +30,5 @@ problemas de localización, suministro flexible, producción, transporte, entre 
 |Location *n* facilities|[Locating n Facilities.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Locating%20n%20Facilities.ipynb)|
 |Two-product Transportation Problem|[Two-product Transportation.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Two-product%20Transportation.ipynb)|
 
-# Aplicaciones de Programación No Lineal.
-# Aplicaciones de Programación Estocática.
+## Aplicaciones de Programación No Lineal.
+## Aplicaciones de Programación Estocática.
