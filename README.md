@@ -34,4 +34,5 @@ problemas de localización, suministro flexible, producción, transporte, entre 
 
 |Description|Results|
 |-----------|-------|
+|Algoritmo Genético |[Algoritmo Genético - TSP.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Algoritmo%20Gen%C3%A9tico%20-%20TSP.ipynb)|
 |Pyomo Implementation|[Optimización no lineal](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Tarea%203.ipynb)|
