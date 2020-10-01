@@ -31,4 +31,7 @@ problemas de localización, suministro flexible, producción, transporte, entre 
 |Two-product Transportation Problem|[Two-product Transportation.ipynb](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Two-product%20Transportation.ipynb)|
 
 ## Aplicaciones de Programación No Lineal.
-## Aplicaciones de Programación Estocática.
+
+|Description|Results|
+|-----------|-------|
+|Pyomo Implementation|[Optimización no lineal](https://nbviewer.jupyter.org/github/sergiomora03/Supply-Chain-Analytics/blob/master/Tarea%203.ipynb)|
